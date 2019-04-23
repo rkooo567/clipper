@@ -262,8 +262,9 @@ def deploy_mxnet_model(clipper_conn,
                     __registry__, __version__)
             elif py_minor_version == (3, 6):
                 logger.info("Using Python 3.6 base image")
-                base_image = "{}/mxnet36-container:{}".format(
-                    __registry__, __version__)
+                # base_image = "{}/mxnet36-container:{}".format(
+                #     __registry__, __version__)
+                base_image = 'rkooo567/clippertest:mxnettest'
             else:
                 msg = (
                     "MXNet deployer only supports Python 2.7, 3.5, and 3.6. "
