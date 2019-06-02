@@ -21,6 +21,10 @@ Clipper is a prediction serving system that sits between user-facing application
 
 * Clipper **improves prediction accuracy** by introducing state-of-the-art bandit and ensemble methods to intelligently select and combine predictions and achieve real-time personalization across machine learning frameworks.  *Clipper makes users happy.*
 
+## Contributing
+
+We are looking for contributors! Please read `CONTRIBUTING.md` to get started. 
+To file a bug or request a feature, please file a GitHub issue. Pull requests are welcome. Additional help and instructions for contributors can be found on our website at <http://clipper.ai/contributing>.
 
 ## Quickstart
 
@@ -225,11 +229,6 @@ clipper_conn.stop_all()
 ```pycon
 17-08-30:16:15:38 INFO     [clipper_admin.py:1141] Stopped all Clipper cluster and all model containers
 ```
-
-
-## Contributing
-
-To file a bug or request a feature, please file a GitHub issue. Pull requests are welcome. Additional help and instructions for contributors can be found on our website at <http://clipper.ai/contributing>.
 
 ## The Team
 
