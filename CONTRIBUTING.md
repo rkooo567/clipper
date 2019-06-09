@@ -10,7 +10,7 @@ Feel free to submit a PR if you want to add new contents!
 
 ### Table of Contents
 * [Quick Start](#quick-start)
-* [Slack](#slack)
+* [Help](#help)
 * [Guideline](#guideline)
     * [Feature Request](#feature-request)
     * [Pull Request](#pull-request)
@@ -60,9 +60,8 @@ Also, here are our goals for future releases.
 - Provides robust selection policies 
 - Stabilize new releases by fixing bugs and resolving issues
 
-## Slack
-If you have any questions or help for your contribution, join our slack and ask directly to us! Here is the link.
-[link]
+## Help
+If you have any questions or need help for your contribution. Please send an email: clipper-dev@gmail.com
 
 ## Guideline
 ### Feature Request
@@ -108,7 +107,7 @@ Not yet written.
 Not yet written
 
 ## Want to learn Clipper
-Details about Clipper will be found in this section. [link-to-reference] 
+Details about Clipper will be found in this section. [Want to learn Clipper](#want-to-learn-clipper)
 Here, we will briefly explain each directory/component. 
 
 ### Concepts
@@ -182,3 +181,10 @@ Clipper heavily uses containers. All the necessary containers are included in th
  
 #### Examples (https://github.com/ucbrise/clipper/tree/develop/examples)
 It contains all the example code. 
+
+### Resources
+- Clipper website: http://clipper.ai/
+- Clipper task board: https://github.com/ucbrise/clipper/projects/4
+- Clipper research paper: https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw
+- Clipper container orchestration: http://clipper.ai/tutorials/container_managers/
+- Clipper concepts: http://clipper.ai/tutorials/basic_concepts/
